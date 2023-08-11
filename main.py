@@ -1,4 +1,6 @@
+> python -m pip install requests
 import requests, os, re, threading
+
 from colorama import Fore
 from lib.captcha import reCAPTCHA
 
